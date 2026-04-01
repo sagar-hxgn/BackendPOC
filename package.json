@@ -1,0 +1,16 @@
+{
+  "name": "backendpoc",
+  "version": "1.0.0",
+  "description": "learing backend with chai with code",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Sagar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
